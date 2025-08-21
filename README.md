@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1042191799.svg)](https://doi.org/10.5281/zenodo.16921716)
 # Racial Disparities in Quality of Dental Care among Publicly Insured Children 
 
 Sung Eun Choi, SM, PhD1, Rindala Fayyad, MS1, Sharon-Lise Normand, PhD2,3
